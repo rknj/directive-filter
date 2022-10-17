@@ -81,14 +81,6 @@
         </repository>
     </repositories>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.jahia.modules</groupId>
-            <artifactId>graphql-dxm-provider</artifactId>
-            <version>1.7.1</version>
-        </dependency>
-    </dependencies>
-
     <build>
         <plugins>
             <plugin>
