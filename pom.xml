@@ -56,7 +56,7 @@
     </parent>
     <groupId>org.foo.modules</groupId>
     <artifactId>directive-filter</artifactId>
-    <name>directive-filter</name>
+    <name>Directive Filter</name>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
     <description>This is the custom module (directive-filter) for running on a Jahia server.</description>
